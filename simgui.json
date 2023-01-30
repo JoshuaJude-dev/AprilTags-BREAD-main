@@ -1,0 +1,15 @@
+{
+  "NTProvider": {
+    "types": {
+      "/FMSInfo": "FMSInfo"
+    }
+  },
+  "NetworkTables": {
+    "photonvision": {
+      "gloworm": {
+        "open": true
+      },
+      "open": true
+    }
+  }
+}
